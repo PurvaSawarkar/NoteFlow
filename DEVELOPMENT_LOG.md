@@ -85,3 +85,16 @@ Backend setup completed successfully.
 
 Local MongoDB will be used during development.
 MongoDB Atlas will be integrated during the Cloud Deployment phase.
+
+
+## Authentication
+
+### Completed
+- Implemented Login API.
+- Added bcrypt password verification.
+- Generated JWT tokens.
+- Tested Register API using Postman.
+- Tested Login API using Postman.
+
+### Status
+Authentication module completed successfully.
